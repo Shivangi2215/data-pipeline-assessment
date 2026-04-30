@@ -1,0 +1,22 @@
+[
+  {"customer_id":"C1","first_name":"User1","last_name":"Test","email":"user1@mail.com","phone":"1234567890","address":"India","date_of_birth":"1995-01-01","account_balance":1001,"created_at":"2024-01-01T10:00:00"},
+  {"customer_id":"C2","first_name":"User2","last_name":"Test","email":"user2@mail.com","phone":"1234567890","address":"India","date_of_birth":"1995-01-01","account_balance":1002,"created_at":"2024-01-01T10:00:00"},
+  {"customer_id":"C3","first_name":"User3","last_name":"Test","email":"user3@mail.com","phone":"1234567890","address":"India","date_of_birth":"1995-01-01","account_balance":1003,"created_at":"2024-01-01T10:00:00"},
+  {"customer_id":"C4","first_name":"User4","last_name":"Test","email":"user4@mail.com","phone":"1234567890","address":"India","date_of_birth":"1995-01-01","account_balance":1004,"created_at":"2024-01-01T10:00:00"},
+  {"customer_id":"C5","first_name":"User5","last_name":"Test","email":"user5@mail.com","phone":"1234567890","address":"India","date_of_birth":"1995-01-01","account_balance":1005,"created_at":"2024-01-01T10:00:00"},
+  {"customer_id":"C6","first_name":"User6","last_name":"Test","email":"user6@mail.com","phone":"1234567890","address":"India","date_of_birth":"1995-01-01","account_balance":1006,"created_at":"2024-01-01T10:00:00"},
+  {"customer_id":"C7","first_name":"User7","last_name":"Test","email":"user7@mail.com","phone":"1234567890","address":"India","date_of_birth":"1995-01-01","account_balance":1007,"created_at":"2024-01-01T10:00:00"},
+  {"customer_id":"C8","first_name":"User8","last_name":"Test","email":"user8@mail.com","phone":"1234567890","address":"India","date_of_birth":"1995-01-01","account_balance":1008,"created_at":"2024-01-01T10:00:00"},
+  {"customer_id":"C9","first_name":"User9","last_name":"Test","email":"user9@mail.com","phone":"1234567890","address":"India","date_of_birth":"1995-01-01","account_balance":1009,"created_at":"2024-01-01T10:00:00"},
+  {"customer_id":"C10","first_name":"User10","last_name":"Test","email":"user10@mail.com","phone":"1234567890","address":"India","date_of_birth":"1995-01-01","account_balance":1010,"created_at":"2024-01-01T10:00:00"},
+  {"customer_id":"C11","first_name":"User11","last_name":"Test","email":"user11@mail.com","phone":"1234567890","address":"India","date_of_birth":"1995-01-01","account_balance":1011,"created_at":"2024-01-01T10:00:00"},
+  {"customer_id":"C12","first_name":"User12","last_name":"Test","email":"user12@mail.com","phone":"1234567890","address":"India","date_of_birth":"1995-01-01","account_balance":1012,"created_at":"2024-01-01T10:00:00"},
+  {"customer_id":"C13","first_name":"User13","last_name":"Test","email":"user13@mail.com","phone":"1234567890","address":"India","date_of_birth":"1995-01-01","account_balance":1013,"created_at":"2024-01-01T10:00:00"},
+  {"customer_id":"C14","first_name":"User14","last_name":"Test","email":"user14@mail.com","phone":"1234567890","address":"India","date_of_birth":"1995-01-01","account_balance":1014,"created_at":"2024-01-01T10:00:00"},
+  {"customer_id":"C15","first_name":"User15","last_name":"Test","email":"user15@mail.com","phone":"1234567890","address":"India","date_of_birth":"1995-01-01","account_balance":1015,"created_at":"2024-01-01T10:00:00"},
+  {"customer_id":"C16","first_name":"User16","last_name":"Test","email":"user16@mail.com","phone":"1234567890","address":"India","date_of_birth":"1995-01-01","account_balance":1016,"created_at":"2024-01-01T10:00:00"},
+  {"customer_id":"C17","first_name":"User17","last_name":"Test","email":"user17@mail.com","phone":"1234567890","address":"India","date_of_birth":"1995-01-01","account_balance":1017,"created_at":"2024-01-01T10:00:00"},
+  {"customer_id":"C18","first_name":"User18","last_name":"Test","email":"user18@mail.com","phone":"1234567890","address":"India","date_of_birth":"1995-01-01","account_balance":1018,"created_at":"2024-01-01T10:00:00"},
+  {"customer_id":"C19","first_name":"User19","last_name":"Test","email":"user19@mail.com","phone":"1234567890","address":"India","date_of_birth":"1995-01-01","account_balance":1019,"created_at":"2024-01-01T10:00:00"},
+  {"customer_id":"C20","first_name":"User20","last_name":"Test","email":"user20@mail.com","phone":"1234567890","address":"India","date_of_birth":"1995-01-01","account_balance":1020,"created_at":"2024-01-01T10:00:00"}
+]
